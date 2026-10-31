@@ -20,5 +20,6 @@ class EvenOdd{
         }
         System.out.println("Count of even no.:"+even);
         System.out.println("Count of odd no.:"+odd);
+        sc.close();
     }
 }
